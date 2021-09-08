@@ -1,24 +1,16 @@
 {
   "socialIcons": [
     {
-      "icon": "facebook",
-      "url": "https://www.facebook.com/stackrolecom"
-    },
-    {
       "icon": "instagram",
-      "url": "https://www.instagram.com/stackrole/"
+      "url": "https://www.instagram.com/andrea_bredice"
     },
     {
-      "icon": "linkedin",
-      "url": "https://in.linkedin.com/company/stackrole"
+      "icon": "twitter",
+      "url": "https://twitter.com/andrebredi"
     },
     {
-      "icon": "youtube",
-      "url": "https://www.youtube.com/channel/UCc1hYgIP_DzFMMzwLRcbDVQ"
-    },
-    {
-      "icon": "dribbble",
-      "url": "https://dribbble.com/stackrole"
+      "icon": "rss",
+      "url": "https://anchor.fm/andrea-bredice"
     }
   ]
 }

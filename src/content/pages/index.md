@@ -1,12 +1,12 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Scarlatte
+tagline: Caldo da frigorifero
+featuredImage: /assets/img_2523.png
 cta:
-  ctaText: Know more
+  ctaText: scappa via!
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Ciao sono Andrea e con la barba ho parecchi anni. Senza ne ho 18, così posso comunque bere. \
+Insomma, qui troverete i racconti che scrivo - sempre rigorosamente a mente lucida e in digitale perchè viva l'ambiente.

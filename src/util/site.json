@@ -2,11 +2,11 @@
   "meta": {
     "title": "Scarlatte",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "© Andrea Bredice, 2020. Sviluppato con ❤ grazie a Gatsby e Stackrole e hostato con amore grazie a Netlify",
+    "siteUrl": "https://scarlatte.com/",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/latte_rosso_png.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": "@andrebredi"
   },
-  "ga": "UA-XXXXXXXXX-X"
+  "ga": "UA-162480204-1"
 }
